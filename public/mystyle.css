@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  background-color: green;
+  width: fit-content(10);
+}
+
+body {
+  background-color: blue;
+}
+
+h2 {
+  color: green;
+  background-color: red;
+  width: fit-content(100);
+}
